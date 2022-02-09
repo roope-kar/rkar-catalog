@@ -1,0 +1,20 @@
+{
+  "name": "rkar-catalog",
+  "version": "1.0.0",
+  "description": "showcase use cases for react components",
+  "main": "index.js",
+  "dependencies": {
+    "@roope-kar/rkar-react-components": "^1.0.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "jest test"
+  },
+  "author": "roope-kar (roope.karhapaa@outlook.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.14.20"
+  }
+}
